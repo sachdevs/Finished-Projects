@@ -26,3 +26,8 @@ An artwork sharing website geared towards allowing Canadian youth to create port
 ####WatIsFood
 See what stores are open on campus at the current time.<br>
 https://github.com/Akenne/WatIsFood<br>
+
+#In Progress
+####Karnaugh Solver
+A K-map (Karnaugh-map) solving script written in Javascript, once finished, will be implemented on my website, http://saksham.me<br>
+https://github.com/sachdevs/KarnaughSolver<br>
