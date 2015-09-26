@@ -57,3 +57,7 @@ https://github.com/Akenne/WatIsFood<br>
 #In Progress
 ####felice
 A bunch of data for your spotify music library. Should be finished around beginning September.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/sachdevs/finished-projects/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
