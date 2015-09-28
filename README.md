@@ -2,6 +2,11 @@
 
 This markdown file contains all of my past projects with a short description and links to their respective source code.
 
+####Felice
+Genre data visualizations for Spotify music library using Echonest API. Also allows you to make joint playlists with friends where only songs that both would users would enjoy are recommended <br>
+Live at http://feliceapp.herokuapp.com <br>
+http://github.com/sachdevs/felice
+
 ####Axis
 A stick figure animator that tweens between keyframes. Waterloo Enghack Winter 2015 1st place. <br>
 https://github.com/pahgawk/Axis
@@ -54,9 +59,6 @@ An artwork sharing website geared towards allowing Canadian youth to create port
 See what stores are open on campus at the current time.<br>
 https://github.com/Akenne/WatIsFood<br>
 
-#In Progress
-####felice
-A bunch of data for your spotify music library. Should be finished around beginning September.
 
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/sachdevs/finished-projects/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
