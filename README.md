@@ -15,9 +15,11 @@ https://github.com/pahgawk/Axis
 A python based stock quotes grapher that has several technical indicators i.e. (MACD, SMA, EMA, etc.) <br>
 https://github.com/sachdevs/pyWick
 
-####JadenSmithBot
-A markov chain bot built from scraping jaden's tweets <br>
-https://github.com/sachdevs/JadenSmithBot <br>
+####Different sentiment analyses
+Sentiment analysis of twitter tweets and last words of executed convicts in Texas. <br>
+Graphed using matplotlib (python library) <br>
+https://github.com/sachdevs/dataSncTutorials/tree/master/deathRowSent <br>
+https://github.com/sachdevs/dataSncTutorials/tree/master/twitSent
 
 ####CourseRep
 A link and note sharing site for students, by students. Supports voting for notes and a clean UI.<br>
@@ -25,20 +27,18 @@ http://challengepost.com/software/courserep-mv4dn <br>
 https://github.com/Mavvie/CourseRep-Front-End <br>
 https://github.com/nare469/CourseRep <br>
 
+####JadenSmithBot
+A markov chain bot built from scraping jaden's tweets <br>
+https://github.com/sachdevs/JadenSmithBot <br>
+
 ####ChromeCC
 A chrome extension that plays subtitles in the browser using *.srt files<br>
 https://github.com/pbardea/chromecc <br>
 
 ####Socket Irc
 An internet relay chat client built entirely in node.js, express, and socket.io<br>
+live at: http://sachdevs-socketchat.herokuapp.com <br>
 https://github.com/sachdevs/socketIOChat <br>
-
-####Different sentiment analyses
-Sentiment analysis of twitter tweets and last words of executed convicts in Texas. <br>
-Graphed using matplotlib (python library) <br>
-https://github.com/sachdevs/dataSncTutorials/tree/master/deathRowSent <br>
-https://github.com/sachdevs/dataSncTutorials/tree/master/twitSent
-
 
 ####CachedTable
 A CRUD database that stores data in localStorage (cache). Basically stores tables as serialized json strings. <br>
@@ -58,8 +58,4 @@ An artwork sharing website geared towards allowing Canadian youth to create port
 ####WatIsFood
 See what stores are open on campus at the current time.<br>
 https://github.com/Akenne/WatIsFood<br>
-
-
-
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/sachdevs/finished-projects/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
