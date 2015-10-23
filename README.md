@@ -55,7 +55,4 @@ https://github.com/sachdevs/999helper
 ####Thousand Words
 An artwork sharing website geared towards allowing Canadian youth to create portfolios for their own artwork. In its time running, the website accumulated 50 active users and 15 active artists.
 
-####WatIsFood
-See what stores are open on campus at the current time.<br>
-https://github.com/Akenne/WatIsFood<br>
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/sachdevs/finished-projects/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
